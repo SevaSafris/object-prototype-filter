@@ -1,0 +1,24 @@
+{
+  "name": "object-prototype-filter",
+  "version": "1.0.0",
+  "description": "Prototype filter function for objects",
+  "main": "object-prototype-filter.js",
+  "scripts": {
+    "build": "./node_modules/uglify-js/bin/uglifyjs object-prototype-filter.js --compress -o object-prototype-filter.min.js --source-map object-prototype-filter.min.js.map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SevaSafris/angular-interpolate.git"
+  },
+  "keywords": [
+    "javascript",
+    "object",
+    "prototype",
+    "filter"
+  ],
+  "author": "Seva Safris <seva@safris.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "uglify-js": "^2.7.4"
+  }
+}

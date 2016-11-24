@@ -1,0 +1,22 @@
+{
+  "name": "object-prototype-filter",
+  "version": "1.0.0",
+  "authors": [
+    "Seva Safris <seva@safris.org>"
+  ],
+  "description": "Prototype filter functions for objects",
+  "main": "object-prototype-filter.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "javascript",
+    "object",
+    "prototype",
+    "filter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules"
+  ]
+}
