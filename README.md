@@ -1,30 +1,29 @@
-# object-prototype-filter
-
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt) [![npm version](https://badge.fury.io/js/object-prototype-filter.svg)](http://badge.fury.io/js/object-prototype-filter)
+<img src="http://safris.org/logo.png" align="right"/>
+## object-prototype-filter<br>[![CohesionFirst](https://img.shields.io/badge/CohesionFirst%E2%84%A2--blue.svg)](https://cohesionfirst.com/) [![JavaCommons](https://img.shields.io/badge/angular-js-red.svg)](https://cohesionfirst.com/) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt) [![npm version](https://badge.fury.io/js/object-prototype-filter.svg)](http://badge.fury.io/js/object-prototype-filter)
 
 This is a set of supplementary prototype additions to the Object class that provide filtration
 funcitons analogous to that of `Array.prototype.filter()`.
 
 _[Comments and Issues](https://github.com/SevaSafris/object-prototype-filter/issues)_
 
-## Installation
+### Installation
 
-#### NPM
+##### NPM
 ```tcsh
 npm install --save object-prototype-filter
 ```
 
-#### Bower
+##### Bower
 ```tcsh
 bower install --save object-prototype-filter
 ```
 
-#### Manual
+##### Manual
 ```html
 <script src="path/to/directory/object-prototype-filter.js"></script>
 ```
 
-### Usage
+#### Usage
 
 This supplement adds the following prototype methods to the Object class:
 
@@ -37,10 +36,10 @@ This supplement adds the following prototype methods to the Object class:
 
     **return** A new objet with the elements that pass the test.
 
-## Development
+### Development
 
 - `npm run build` - Build and minify
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
