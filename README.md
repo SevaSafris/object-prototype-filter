@@ -1,4 +1,5 @@
-<img src="http://safris.org/logo.png" align="right"/>
+<img src="https://www.cohesionfirst.org/logo.png" align="right"/>
+
 ## object-prototype-filter<br>[![CohesionFirst](https://img.shields.io/badge/CohesionFirst%E2%84%A2--blue.svg)](https://cohesionfirst.com/) [![JavaCommons](https://img.shields.io/badge/angular-js-red.svg)](https://cohesionfirst.com/) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt) [![npm version](https://badge.fury.io/js/object-prototype-filter.svg)](http://badge.fury.io/js/object-prototype-filter)
 
 This is a set of supplementary prototype additions to the Object class that provide filtration functions analogous to that of `Array.prototype.filter()`.
